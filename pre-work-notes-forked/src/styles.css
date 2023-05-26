@@ -1,0 +1,41 @@
+body {
+  background-color: black;
+  color: ghostwhite;
+}
+/*h2 {
+  font-family: "Montserrat", sans-serif;
+}*/
+h1 {
+  text-align: center;
+}
+.textbox {
+  border: 1px solid #000; /* Sets a 1 pixel solid black border */
+  padding: 10px; /* Adds some padding inside the box */
+  width: 1000px; /* Sets the width of the box */
+  border-radius: 20px;
+  box-shadow: 2px 2px 2px 2px deeppink;
+  margin-left: 250px;
+  color: ghostwhite;
+  padding-bottom: 10px;
+  margin-bottom: 50px;
+}
+
+.bullet-list {
+  list-style-type: circle;
+}
+
+.html h2 {
+  text-align: center;
+}
+
+.css h2 {
+  text-align: center;
+}
+
+.git h2 {
+  text-align: center;
+}
+
+.js h2 {
+  text-align: center;
+}
